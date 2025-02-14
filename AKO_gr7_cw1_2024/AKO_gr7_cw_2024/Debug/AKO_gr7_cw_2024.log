@@ -1,3 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (AKO_gr7_cw_2024.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  Assembling plik2.asm...
-  AKO_gr7_cw_2024.vcxproj -> C:\Users\Bartek\Desktop\assembler\AKO_gr7_cw1_2024\Debug\AKO_gr7_cw1_2024.exe
