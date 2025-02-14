@@ -1,0 +1,8 @@
+﻿  Assembling masmik.asm...
+  plik.c
+C:\Users\Bartek\Desktop\assembler\pierwszyXMM\pierwszyXMM\plik.c(32,8): warning C4133: 'function': incompatible types - from 'char [16]' to 'float *'
+C:\Users\Bartek\Desktop\assembler\pierwszyXMM\pierwszyXMM\plik.c(32,18): warning C4133: 'function': incompatible types - from 'char [16]' to 'float *'
+C:\Users\Bartek\Desktop\assembler\pierwszyXMM\pierwszyXMM\plik.c(32,27): warning C4133: 'function': incompatible types - from 'char [16]' to 'float *'
+C:\Users\Bartek\Desktop\assembler\pierwszyXMM\pierwszyXMM\plik.c(45,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Bartek\Desktop\assembler\pierwszyXMM\pierwszyXMM\plik.c(45,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+  pierwszyXMM.vcxproj -> C:\Users\Bartek\Desktop\assembler\pierwszyXMM\Debug\pierwszyXMM.exe

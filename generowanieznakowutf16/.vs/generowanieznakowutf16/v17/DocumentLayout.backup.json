@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\generowanieznakowutf16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0949A0-5259-42A9-A96C-D589F35C26EE}|generowanieznakowutf16\\generowanieznakowutf16.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\generowanieznakowutf16\\generowanieznakowutf16\\zadanko.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BC0949A0-5259-42A9-A96C-D589F35C26EE}|generowanieznakowutf16\\generowanieznakowutf16.vcxproj|solutionrelative:generowanieznakowutf16\\zadanko.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zadanko.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\generowanieznakowutf16\\generowanieznakowutf16\\zadanko.asm",
+              "RelativeDocumentMoniker": "generowanieznakowutf16\\zadanko.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\generowanieznakowutf16\\generowanieznakowutf16\\zadanko.asm",
+              "RelativeToolTip": "generowanieznakowutf16\\zadanko.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-25T11:28:49.905Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

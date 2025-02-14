@@ -1,0 +1,4 @@
+1. Dodaj w dependencies masm.
+2. Zmien x64 na x86.
+3. Dodaj w project- > properties libcmt.lib (w mieszanym nie)
+

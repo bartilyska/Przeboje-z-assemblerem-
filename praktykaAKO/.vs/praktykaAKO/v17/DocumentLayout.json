@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0495BAE2-2F3A-409F-BD6C-6F11C79FB8BF}|praktykaAKO\\praktykaAKO.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\praktykaAKO\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0495BAE2-2F3A-409F-BD6C-6F11C79FB8BF}|praktykaAKO\\praktykaAKO.vcxproj|solutionrelative:praktykaAKO\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0495BAE2-2F3A-409F-BD6C-6F11C79FB8BF}|praktykaAKO\\praktykaAKO.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\praktykaAKO\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0495BAE2-2F3A-409F-BD6C-6F11C79FB8BF}|praktykaAKO\\praktykaAKO.vcxproj|solutionrelative:praktykaAKO\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "licz.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\praktykaAKO\\licz.asm",
+              "RelativeDocumentMoniker": "praktykaAKO\\licz.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\praktykaAKO\\licz.asm",
+              "RelativeToolTip": "praktykaAKO\\licz.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0CAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T17:58:47.269Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plik.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\praktykaAKO\\plik.c",
+              "RelativeDocumentMoniker": "praktykaAKO\\plik.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\praktykaAKO\\praktykaAKO\\plik.c",
+              "RelativeToolTip": "praktykaAKO\\plik.c",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-16T17:58:41.016Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

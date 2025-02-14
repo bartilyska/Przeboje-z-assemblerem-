@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DE3E2E-65FE-46D5-ABE8-E82317ACDE3D}|drugiattempt\\drugiattempt.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\drugiattempt\\po.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A7DE3E2E-65FE-46D5-ABE8-E82317ACDE3D}|drugiattempt\\drugiattempt.vcxproj|solutionrelative:drugiattempt\\po.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DE3E2E-65FE-46D5-ABE8-E82317ACDE3D}|drugiattempt\\drugiattempt.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\drugiattempt\\plz.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A7DE3E2E-65FE-46D5-ABE8-E82317ACDE3D}|drugiattempt\\drugiattempt.vcxproj|solutionrelative:drugiattempt\\plz.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plz.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\drugiattempt\\plz.asm",
+              "RelativeDocumentMoniker": "drugiattempt\\plz.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\drugiattempt\\plz.asm",
+              "RelativeToolTip": "drugiattempt\\plz.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-08T18:50:13.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "po.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\drugiattempt\\po.c",
+              "RelativeDocumentMoniker": "drugiattempt\\po.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\drugiattempt\\drugiattempt\\po.c",
+              "RelativeToolTip": "drugiattempt\\po.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-08T18:50:05.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

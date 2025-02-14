@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC8B75E-1A6A-4F9D-845D-81BC3B0672F1}|dodawaniefloatow\\dodawaniefloatow.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\dodawaniefloatow\\liczenie.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AAC8B75E-1A6A-4F9D-845D-81BC3B0672F1}|dodawaniefloatow\\dodawaniefloatow.vcxproj|solutionrelative:dodawaniefloatow\\liczenie.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAC8B75E-1A6A-4F9D-845D-81BC3B0672F1}|dodawaniefloatow\\dodawaniefloatow.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\dodawaniefloatow\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AAC8B75E-1A6A-4F9D-845D-81BC3B0672F1}|dodawaniefloatow\\dodawaniefloatow.vcxproj|solutionrelative:dodawaniefloatow\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "liczenie.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\dodawaniefloatow\\liczenie.asm",
+              "RelativeDocumentMoniker": "dodawaniefloatow\\liczenie.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\dodawaniefloatow\\liczenie.asm",
+              "RelativeToolTip": "dodawaniefloatow\\liczenie.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-07T20:13:52.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plik.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\dodawaniefloatow\\plik.c",
+              "RelativeDocumentMoniker": "dodawaniefloatow\\plik.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\dodawaniefloatow\\dodawaniefloatow\\plik.c",
+              "RelativeToolTip": "dodawaniefloatow\\plik.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-07T20:13:22.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

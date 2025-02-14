@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44F55C-5E4C-4067-A4AD-3E67C34BDA75}|odejmowanie_64bit\\odejmowanie_64bit.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\odejmowanie_64bit\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1B44F55C-5E4C-4067-A4AD-3E67C34BDA75}|odejmowanie_64bit\\odejmowanie_64bit.vcxproj|solutionrelative:odejmowanie_64bit\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B44F55C-5E4C-4067-A4AD-3E67C34BDA75}|odejmowanie_64bit\\odejmowanie_64bit.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\odejmowanie_64bit\\liczonko.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B44F55C-5E4C-4067-A4AD-3E67C34BDA75}|odejmowanie_64bit\\odejmowanie_64bit.vcxproj|solutionrelative:odejmowanie_64bit\\liczonko.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "liczonko.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\odejmowanie_64bit\\liczonko.c",
+              "RelativeDocumentMoniker": "odejmowanie_64bit\\liczonko.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\odejmowanie_64bit\\liczonko.c",
+              "RelativeToolTip": "odejmowanie_64bit\\liczonko.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-22T12:40:15.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plik.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\odejmowanie_64bit\\plik.asm",
+              "RelativeDocumentMoniker": "odejmowanie_64bit\\plik.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\odejmowanie_64bit\\odejmowanie_64bit\\plik.asm",
+              "RelativeToolTip": "odejmowanie_64bit\\plik.asm",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T12:40:05.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

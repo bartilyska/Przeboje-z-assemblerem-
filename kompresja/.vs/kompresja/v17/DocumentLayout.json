@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DDD6B9-1322-4E8E-AEB9-3060E859CA60}|kompresja\\kompresja.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\kompresja\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B7DDD6B9-1322-4E8E-AEB9-3060E859CA60}|kompresja\\kompresja.vcxproj|solutionrelative:kompresja\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DDD6B9-1322-4E8E-AEB9-3060E859CA60}|kompresja\\kompresja.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\kompresja\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7DDD6B9-1322-4E8E-AEB9-3060E859CA60}|kompresja\\kompresja.vcxproj|solutionrelative:kompresja\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plik.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\kompresja\\plik.c",
+              "RelativeDocumentMoniker": "kompresja\\plik.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\kompresja\\plik.c",
+              "RelativeToolTip": "kompresja\\plik.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-02T17:58:01.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "licz.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\kompresja\\licz.asm",
+              "RelativeDocumentMoniker": "kompresja\\licz.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\kompresja\\kompresja\\licz.asm",
+              "RelativeToolTip": "kompresja\\licz.asm",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-02T17:58:10.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

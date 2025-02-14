@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol _FMA referenced in function _main
+C:\Users\Bartek\Desktop\assembler\AVL\Debug\AVL.exe : fatal error LNK1120: 1 unresolved externals

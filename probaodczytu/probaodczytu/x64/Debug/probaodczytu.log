@@ -1,0 +1,3 @@
+﻿  plik.c
+plik.obj : error LNK2019: unresolved external symbol readmsg referenced in function main
+C:\Users\Bartek\Desktop\assembler\probaodczytu\x64\Debug\probaodczytu.exe : fatal error LNK1120: 1 unresolved externals

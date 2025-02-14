@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\preplab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB60DF4E-AAF2-4FE4-BD2D-F5A8832CE539}|preplab2\\preplab2.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\preplab2\\preplab2\\zad.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB60DF4E-AAF2-4FE4-BD2D-F5A8832CE539}|preplab2\\preplab2.vcxproj|solutionrelative:preplab2\\zad.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "zad.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\preplab2\\preplab2\\zad.asm",
+              "RelativeDocumentMoniker": "preplab2\\zad.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\preplab2\\preplab2\\zad.asm",
+              "RelativeToolTip": "preplab2\\zad.asm",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAQwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-23T19:54:28.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

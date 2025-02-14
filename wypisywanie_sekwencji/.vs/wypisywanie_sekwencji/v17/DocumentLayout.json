@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\wypisywanie_sekwencji\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5795CF25-F784-448D-9B40-8EC502AE88DA}|wypisywanie_sekwencji\\wypisywanie_sekwencji.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\wypisywanie_sekwencji\\wypisywanie_sekwencji\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5795CF25-F784-448D-9B40-8EC502AE88DA}|wypisywanie_sekwencji\\wypisywanie_sekwencji.vcxproj|solutionrelative:wypisywanie_sekwencji\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plik.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\wypisywanie_sekwencji\\wypisywanie_sekwencji\\plik.asm",
+              "RelativeDocumentMoniker": "wypisywanie_sekwencji\\plik.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\wypisywanie_sekwencji\\wypisywanie_sekwencji\\plik.asm",
+              "RelativeToolTip": "wypisywanie_sekwencji\\plik.asm",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T22:34:22.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

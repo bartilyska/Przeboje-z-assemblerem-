@@ -1,0 +1,3 @@
+﻿  Assembling licz.asm...
+licz.asm(21): error A2023: instruction operand must have size
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"liczonko\Release\licz.obj" /W3 /errorReport:prompt  /Talicz.asm" exited with code 1.

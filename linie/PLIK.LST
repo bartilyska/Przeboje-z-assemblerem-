@@ -1,0 +1,153 @@
+Microsoft (R) Macro Assembler Version 5.00                  1/5/25 01:49:15
+                                                             Page     1-1
+
+
+       1				.386 
+       2 0000				rozkazy SEGMENT use16 
+       3				ASSUME cs:rozkazy 
+       4 0000				linia PROC 
+       5				; przechowanie rejestrów 
+       6 0000  50			push ax 
+       7 0001  53			push bx 
+       8 0002  06			push es 
+       9 0003  B8 A000			mov ax, 0A000H ; adres pamiêci ekranu d
+					la trybu 13H 
+      10 0006  8E C0			mov es, ax 
+      11 0008  2E: 8B 1E 0058 R		mov bx, cs:adres_piksela ; adres bie¿¹c
+					y piksela 
+      12 000D  2E: 03 1E 005A R		add bx, cs:dodaj ; dodanie wartoœci do 
+					adresu piksela (przek) 
+      13 0012  2E: A0 0057 R		mov al, cs:kolor 
+      14 0016  26: 88 07		mov es:[bx], al ; wpisanie kodu koloru 
+					do pamiêci ekranu 
+      15				; przejœcie do nastêpnego wiersza na ek
+					ranie 
+      16 0019  2E: 2B 1E 005A R		sub bx,cs:dodaj 
+      17 001E  81 C3 0140		add bx, 320 
+      18 0022  2E: 83 06 005A R 04	add word PTR cs:dodaj, 4 
+      19				; sprawdzenie czy ca³a linia wykreœlona
+					 
+      20 0028  81 FB FA00		cmp bx, 320*200 
+      21 002C  0F 82 004A R		jb dalej ; skok, gdy linia jeszcze nie 
+					wykreœlona 
+      22				; kreœlenie linii zosta³o zakoñczone - 
+					nastêpna linia bêdzie 
+      23				; kreœlona w innym kolorze o 10 pikseli
+					 dalej 
+      24 0030  2E: 83 06 005C R 0A	add word PTR cs:przyrost, 10 
+      25 0036  BB 000A			mov bx, 10 
+      26 0039  2E: 03 1E 005C R		add bx, cs:przyrost 
+      27 003E  2E: FE 06 0057 R		inc cs:kolor ; kolejny kod koloru 
+      28 0043  2E: C7 06 005A R 0000	mov cs:dodaj, 0 ;przek 
+      29				; zapisanie adresu bie¿¹cego piksela 
+      30 004A				dalej: 
+      31 004A  2E: 89 1E 0058 R		mov cs:adres_piksela, bx 
+      32				; odtworzenie rejestrów 
+      33 004F  07			 pop es 
+      34 0050  5B			 pop bx 
+      35 0051  58			 pop ax 
+      36				; skok do oryginalnego podprogramu obs³
+					ugi przerwania 
+      37				; zegarowego 
+      38 0052  2E: FF 2E 005E R		 jmp dword PTR cs:wektor8 
+      39				; zmienne procedury 
+      40 0057  01			kolor db 1 ; bie¿¹cy numer koloru 
+      41 0058  000A			adres_piksela dw 10 ; bie¿¹cy adres pik
+					sela 
+      42 005A  0000			dodaj dw 0 
+      43 005C  0000			przyrost dw 0 
+Microsoft (R) Macro Assembler Version 5.00                  1/5/25 01:49:15
+                                                             Page     1-2
+
+
+      44 005E  ????????			wektor8 dd ? 
+      45 0062				linia ENDP 
+      46				; INT 10H, funkcja nr 0 ustawia tryb st
+					erownika graficznego 
+      47 0062				zacznij: 
+      48 0062  B4 00			mov ah, 0 
+      49 0064  B0 13			mov al, 13H ; nr trybu 
+      50 0066  CD 10			int 10H 
+      51 0068  BB 0000			mov bx, 0 
+      52 006B  8E C3			mov es, bx ; zerowanie rejestru ES 
+      53 006D  26: 66| A1 0020		mov eax, es:[32] ; odczytanie wektora n
+					r 8 
+      54 0072  2E: 66| A3 005E R	mov cs:wektor8, eax; zapamiêtanie wekto
+					ra nr 8 
+      55				; adres procedury 'linia' w postaci seg
+					ment:offset 
+      56 0077  B8 ---- R		mov ax, SEG linia 
+      57 007A  BB 0000 R		mov bx, OFFSET linia 
+      58 007D  FA			cli ; zablokowanie przerwañ 
+      59				; zapisanie adresu procedury 'linia' do
+					 wektora nr 8 
+      60 007E  26: 89 1E 0020		mov es:[32], bx 
+      61 0083  26: A3 0022		mov es:[32+2], ax 
+      62 0087  FB			sti ; odblokowanie przerwañ 
+      63 0088				czekaj: 
+      64 0088  B4 01			mov ah, 1 ; sprawdzenie czy jest jakiœ 
+					znak 
+      65 008A  CD 16			int 16h ; w buforze klawiatury 
+      66 008C  74 FA			jz czekaj 
+      67 008E  B4 00			mov ah, 0 ; funkcja nr 0 ustawia tryb s
+					terownika 
+      68 0090  B0 03			mov al, 3H ; nr trybu 
+      69 0092  CD 10			int 10H 
+      70				; odtworzenie oryginalnej zawartoœci we
+					ktora nr 8 
+      71 0094  2E: 66| A1 005E R	mov eax, cs:wektor8 
+      72 0099  26: 66| A3 0020		mov es:[32], eax 
+      73				; zakoñczenie wykonywania programu 
+      74 009E  B8 4C00			mov ax, 4C00H 
+      75 00A1  CD 21			int 21H 
+      76 00A3				rozkazy ENDS 
+      77 0000				stosik SEGMENT stack 
+      78 0000  0100[			db 256 dup (?) 
+      79	    ??			
+      80			 ]	
+      81				
+      82 0100				stosik ENDS 
+      83				END zacznij 
+Microsoft (R) Macro Assembler Version 5.00                  1/5/25 01:49:15
+                                                             Symbols-1
+
+
+
+
+                N a m e         	Size	Length	 Align	Combine Class
+
+ROZKAZY  . . . . . . . . . . . .  	16 Bit	00A3	PARA	NONE	
+STOSIK . . . . . . . . . . . . .  	32 Bit	0100	PARA	STACK	
+
+Symbols:            
+
+                N a m e         	Type	 Value	 Attr
+
+ADRES_PIKSELA  . . . . . . . . .  	L WORD	0058	ROZKAZY
+
+CZEKAJ . . . . . . . . . . . . .  	L NEAR	0088	ROZKAZY
+
+DALEJ  . . . . . . . . . . . . .  	L NEAR	004A	ROZKAZY
+DODAJ  . . . . . . . . . . . . .  	L WORD	005A	ROZKAZY
+
+KOLOR  . . . . . . . . . . . . .  	L BYTE	0057	ROZKAZY
+
+LINIA  . . . . . . . . . . . . .  	N PROC	0000	ROZKAZY	Length = 0062
+
+PRZYROST . . . . . . . . . . . .  	L WORD	005C	ROZKAZY
+
+WEKTOR8  . . . . . . . . . . . .  	L DWORD	005E	ROZKAZY
+
+ZACZNIJ  . . . . . . . . . . . .  	L NEAR	0062	ROZKAZY
+
+@FILENAME  . . . . . . . . . . .  	TEXT  plik		
+
+
+     80 Source  Lines
+     80 Total   Lines
+     13 Symbols
+
+  50484 + 466060 Bytes symbol space free
+
+      0 Warning Errors
+      0 Severe  Errors

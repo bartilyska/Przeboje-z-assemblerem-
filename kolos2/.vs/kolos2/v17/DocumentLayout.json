@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{470FE744-B2D8-4CFA-BFAC-8E351695FD8B}|kolos2\\kolos2.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\kolos2\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{470FE744-B2D8-4CFA-BFAC-8E351695FD8B}|kolos2\\kolos2.vcxproj|solutionrelative:kolos2\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470FE744-B2D8-4CFA-BFAC-8E351695FD8B}|kolos2\\kolos2.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\kolos2\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{470FE744-B2D8-4CFA-BFAC-8E351695FD8B}|kolos2\\kolos2.vcxproj|solutionrelative:kolos2\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plik.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\kolos2\\plik.c",
+              "RelativeDocumentMoniker": "kolos2\\plik.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\kolos2\\plik.c",
+              "RelativeToolTip": "kolos2\\plik.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-13T10:08:46.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "licz.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\kolos2\\licz.asm",
+              "RelativeDocumentMoniker": "kolos2\\licz.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\kolos2\\kolos2\\licz.asm",
+              "RelativeToolTip": "kolos2\\licz.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T10:08:39.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

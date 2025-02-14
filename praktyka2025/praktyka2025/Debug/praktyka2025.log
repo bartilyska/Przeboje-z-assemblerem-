@@ -1,0 +1,3 @@
+﻿  plik.c
+C:\Users\Bartek\Desktop\assembler\praktyka2025\praktyka2025\plik.c(19,9): warning C4477: 'printf' : format string '%lld' requires an argument of type '__int64', but variadic argument 1 has type '__m128'
+  praktyka2025.vcxproj -> C:\Users\Bartek\Desktop\assembler\praktyka2025\Debug\praktyka2025.exe

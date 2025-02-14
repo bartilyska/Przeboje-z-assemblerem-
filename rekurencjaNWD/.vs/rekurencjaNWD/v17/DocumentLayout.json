@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFFDDD4-4A9D-4A4C-8461-7E85E8021E55}|rekurencjaNWD\\rekurencjaNWD.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\rekurencjaNWD\\liczonko.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7BFFDDD4-4A9D-4A4C-8461-7E85E8021E55}|rekurencjaNWD\\rekurencjaNWD.vcxproj|solutionrelative:rekurencjaNWD\\liczonko.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BFFDDD4-4A9D-4A4C-8461-7E85E8021E55}|rekurencjaNWD\\rekurencjaNWD.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\rekurencjaNWD\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7BFFDDD4-4A9D-4A4C-8461-7E85E8021E55}|rekurencjaNWD\\rekurencjaNWD.vcxproj|solutionrelative:rekurencjaNWD\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "liczonko.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\rekurencjaNWD\\liczonko.asm",
+              "RelativeDocumentMoniker": "rekurencjaNWD\\liczonko.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\rekurencjaNWD\\liczonko.asm",
+              "RelativeToolTip": "rekurencjaNWD\\liczonko.asm",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T20:55:59.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plik.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\rekurencjaNWD\\plik.c",
+              "RelativeDocumentMoniker": "rekurencjaNWD\\plik.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\rekurencjaNWD\\rekurencjaNWD\\plik.c",
+              "RelativeToolTip": "rekurencjaNWD\\plik.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-01-03T20:55:43.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

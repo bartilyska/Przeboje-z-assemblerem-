@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\lab3testy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52D65485-B8ED-4324-9995-C659FE93D73A}|lab3testy\\lab3testy.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\lab3testy\\lab3testy\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{52D65485-B8ED-4324-9995-C659FE93D73A}|lab3testy\\lab3testy.vcxproj|solutionrelative:lab3testy\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plik.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\lab3testy\\lab3testy\\plik.asm",
+              "RelativeDocumentMoniker": "lab3testy\\plik.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\lab3testy\\lab3testy\\plik.asm*",
+              "RelativeToolTip": "lab3testy\\plik.asm*",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-05T20:38:13.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

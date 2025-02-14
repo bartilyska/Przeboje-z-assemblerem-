@@ -1,0 +1,14 @@
+﻿  Assembling licz.asm...
+licz.asm(8): error A2006: undefined symbol : rbx
+licz.asm(9): error A2006: undefined symbol : rsi
+licz.asm(10): error A2006: undefined symbol : rbx
+licz.asm(11): error A2006: undefined symbol : rcx
+licz.asm(12): error A2006: undefined symbol : rsi
+licz.asm(16): error A2006: undefined symbol : rax
+licz.asm(19): error A2006: undefined symbol : rcx
+licz.asm(20): error A2006: undefined symbol : rsi
+licz.asm(23): error A2006: undefined symbol : rax
+licz.asm(28): error A2006: undefined symbol : rax
+licz.asm(32): error A2006: undefined symbol : rsi
+licz.asm(33): error A2006: undefined symbol : rbx
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\licz.obj" /W3 /errorReport:prompt  /Talicz.asm" exited with code 1.

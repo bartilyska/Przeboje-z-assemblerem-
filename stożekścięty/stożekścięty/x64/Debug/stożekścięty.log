@@ -1,0 +1,4 @@
+﻿  plik.c
+C:\Users\Bartek\Desktop\assembler\stożekścięty\stożekścięty\plik.c(3,44): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+plik.obj : error LNK2019: unresolved external symbol moja_funkcja referenced in function main
+C:\Users\Bartek\Desktop\assembler\stożekścięty\x64\Debug\stożekścięty.exe : fatal error LNK1120: 1 unresolved externals

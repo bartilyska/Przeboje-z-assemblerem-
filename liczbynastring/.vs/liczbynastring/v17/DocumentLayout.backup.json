@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824E9B99-CD89-4274-881F-2B9F6059F620}|liczbynastring\\liczbynastring.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\liczbynastring\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{824E9B99-CD89-4274-881F-2B9F6059F620}|liczbynastring\\liczbynastring.vcxproj|solutionrelative:liczbynastring\\licz.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824E9B99-CD89-4274-881F-2B9F6059F620}|liczbynastring\\liczbynastring.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\liczbynastring\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{824E9B99-CD89-4274-881F-2B9F6059F620}|liczbynastring\\liczbynastring.vcxproj|solutionrelative:liczbynastring\\plik.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "plik.c",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\liczbynastring\\plik.c",
+              "RelativeDocumentMoniker": "liczbynastring\\plik.c",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\liczbynastring\\plik.c",
+              "RelativeToolTip": "liczbynastring\\plik.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-22T19:06:43.407Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "licz.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\liczbynastring\\licz.asm",
+              "RelativeDocumentMoniker": "liczbynastring\\licz.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\liczbynastring\\liczbynastring\\licz.asm",
+              "RelativeToolTip": "liczbynastring\\licz.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T19:06:34.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

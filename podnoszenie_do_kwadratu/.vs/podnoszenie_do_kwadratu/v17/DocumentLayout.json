@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bartek\\Desktop\\assembler\\podnoszenie_do_kwadratu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C293DCC6-FCD0-4DA9-B102-85A409B438FE}|podnoszenie_do_kwadratu\\podnoszenie_do_kwadratu.vcxproj|C:\\Users\\Bartek\\Desktop\\assembler\\podnoszenie_do_kwadratu\\podnoszenie_do_kwadratu\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C293DCC6-FCD0-4DA9-B102-85A409B438FE}|podnoszenie_do_kwadratu\\podnoszenie_do_kwadratu.vcxproj|solutionrelative:podnoszenie_do_kwadratu\\plik.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "plik.asm",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\assembler\\podnoszenie_do_kwadratu\\podnoszenie_do_kwadratu\\plik.asm",
+              "RelativeDocumentMoniker": "podnoszenie_do_kwadratu\\plik.asm",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\assembler\\podnoszenie_do_kwadratu\\podnoszenie_do_kwadratu\\plik.asm",
+              "RelativeToolTip": "podnoszenie_do_kwadratu\\plik.asm",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-06T17:06:39.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
